@@ -5,3 +5,18 @@ def topFiveMovies():
     print("two heroes")
     print("DBS: Broly")
 topFiveMovies()
+print("   ")
+def topFourSports():
+    print("Soccer")
+    print("Skiing")
+    print("Swimming")
+    print("Water Tubing")
+topFourSports()
+print("   ")
+def topFiveFoods():
+    print("Alfredo")
+    print("Pizza")
+    print("Cheeseburger")
+    print("Burrito")
+    print("Chicken")
+topFiveFoods()
