@@ -20,3 +20,8 @@ def topFiveFoods():
     print("Burrito")
     print("Chicken")
 topFiveFoods()
+print("   ")
+def myNameIs(a):
+    print(a + " is my name")
+
+myNameIs("Brady")
